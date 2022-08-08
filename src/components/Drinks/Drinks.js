@@ -3,7 +3,7 @@ import React from 'react'
 export default function Drinks() {
   return (
     <section className='drinks'>
-      <h2>Bedidas</h2>
+      <h2>Bebidas</h2>
 
       <ul>
         <li>
