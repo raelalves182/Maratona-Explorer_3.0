@@ -1,5 +1,6 @@
-import Brunch from 'components/Brunch/Brunch'
-import Head from 'next/head'
+import Brunch from 'components/Brunch/Brunch';
+import Drinks from 'components/Drinks/Drinks';
+import Head from 'next/head';
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       </Head>
 
       <Brunch />
+      <Drinks />
     </main>
   )
 }

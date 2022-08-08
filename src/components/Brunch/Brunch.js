@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Brunch() {
   return (
-    <section className='Brunch'>
+    <section className='brunch'>
       <h2>Brunch</h2>
 
       <ul>

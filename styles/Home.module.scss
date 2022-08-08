@@ -1,6 +1,17 @@
 .container {
-  max-width: 960px;
+  max-width: 300px;
   margin: 0 auto;
-  padding: 0 2rem;
-  //text-align: center;
+}
+
+.header-main {
+  padding: 32px 0;
+  text-align: center;
+
+  h1 {
+    margin-bottom: 4px;
+  }
+
+  span {
+    color: #995000;
+  }
 }
