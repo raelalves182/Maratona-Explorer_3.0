@@ -9,7 +9,7 @@ export default function Brunch() {
         <li>
           <div className='details'>
             <h3 className='details__title'>WAFFLE DOCE</h3>
-            <p className='details__description'>Lorem ipsum dolor site amet, adipsicing elit, sed diam nonummy nibh.</p>
+            <p className='details__description'>Lorem ipsum dolor site amet, adipsicing elit.</p>
           </div>
 
           <strong className='price'>
@@ -20,7 +20,7 @@ export default function Brunch() {
         <li>
           <div className='details'>
             <h3 className='details__title'>ARROZ DOCE</h3>
-            <p className='details__description'>Lorem ipsum dolor site amet, adipsicing elit, sed diam nonummy nibh.</p>
+            <p className='details__description'>Lorem ipsum dolor site amet, adipsicing elit.</p>
           </div>
 
           <strong className='price'>
@@ -31,7 +31,7 @@ export default function Brunch() {
         <li>
           <div className='details'>
             <h3 className='details__title'>MAÇA DOCE</h3>
-            <p className='details__description'>Lorem ipsum dolor site amet, adipsicing elit, sed diam nonummy nibh.</p>
+            <p className='details__description'>Lorem ipsum dolor site amet, adipsicing elit.</p>
           </div>
 
           <strong className='price'>

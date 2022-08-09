@@ -9,7 +9,7 @@ export default function Drinks() {
         <li>
           <div className='details'>
             <h3 className='details__title'>Vinho Suave</h3>
-            <p className='details__description'>Lorem ipsum dolor site amet, adipsicing elit, sed diam nonummy nibh.</p>
+            <p className='details__description'>Lorem ipsum dolor site amet, adipsicing elit.</p>
           </div>
 
           <strong className='price'>
@@ -20,7 +20,7 @@ export default function Drinks() {
         <li>
           <div className='details'>
             <h3 className='details__title'>Vinho Tinto</h3>
-            <p className='details__description'>Lorem ipsum dolor site amet, adipsicing elit, sed diam nonummy nibh.</p>
+            <p className='details__description'>Lorem ipsum dolor site amet, adipsicing elit.</p>
           </div>
 
           <strong className='price'>
